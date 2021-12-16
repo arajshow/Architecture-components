@@ -1,7 +1,7 @@
 Unscramble App
 ===================================
 
-Starter code for Android Basics codelab - Store the data in a ViewModel
+Starter code for Android Basics codelab - Store the data in a ViewModel using Architecture componennts like liveData, dataBinding
 
 It is same as previous app but here i managed to use liveData with data binding to updat variables on screen like score,
 wordCounnt and also learn liveData using observer.
